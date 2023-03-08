@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="User" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-08T15:41:42" hostname="DESKTOP-6Q6ORF6" time="4.517">
+  <properties/>
+  <testcase name="callingLoginAPI" classname="User" time="4.517"/>
+  <system-out><![CDATA[eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbG1hbkByb2FkdG9jYXJlZXIubmV0IiwicGFzc3dvcmQiOiIxMjM0IiwiaWF0IjoxNjc4MjkwMTA0LCJleHAiOjE2NzgyOTE5MDR9.9temQH43V8RuOsvF-devraafP_hXyb3Nq8Hp9RiizBk
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbG1hbkByb2FkdG9jYXJlZXIubmV0IiwicGFzc3dvcmQiOiIxMjM0IiwiaWF0IjoxNjc4MjkwMTA0LCJleHAiOjE2NzgyOTE5MDR9.9temQH43V8RuOsvF-devraafP_hXyb3Nq8Hp9RiizBk
+Login successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
